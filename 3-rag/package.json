@@ -25,6 +25,7 @@
         "@langchain/qdrant": "^1.0.3",
         "@langchain/textsplitters": "^1.0.1",
         "dotenv": "^17.4.2",
+        "openai": "^7.17.0",
         "pdf-parse": "^2.4.5"
     }
 }
